@@ -1,0 +1,14 @@
+
+table {
+    border-width: 1px;
+    border-radius: 20px;
+    border-color: black;
+    background-color: #96d4d3;
+}
+
+td,
+th {
+    border-radius: 20px;
+    background-color: #96d4d3;
+    border-color: black;
+}
